@@ -1,72 +1,105 @@
 👋 Olá, eu sou o Yago Félix!
 
-Sou um Desenvolvedor Python / Back-end apaixonado por criar soluções eficientes, escaláveis e que realmente resolvem problemas. Tenho experiência com Python, Flask, Django e bancos de dados, além de atuar como full stack quando necessário.
-Atualmente estou focado em evoluir para um Dev Python Jr sólido, dominando APIs, SQL e automação.
+Sou um desenvolvedor Python / Back-end do Brasil 🇧🇷 apaixonado por resolver problemas reais com código, criar APIs sólidas e automatizar processos. Atualmente estou evoluindo em Flask, SQL, Selenium e boas práticas de arquitetura para me tornar um profissional cada vez mais completo.
 
 🚀 Sobre mim
 
-👨‍💻 Desenvolvedor Python focado em back-end
+🎯 20 anos, brasileiro
 
-🇧🇷 Brasileiro, vivendo de forma nômade 🌎
+🌍 Trabalhando e estudando remotamente
 
-🌐 Aberto a oportunidades remotas nacionais e internacionais
+📚 Estudo programação de forma consistente todos os dias
 
-🔭 Atualmente trabalhando em projetos próprios usando Flask, APIs REST, PostgreSQL e automação com Selenium/Pandas
+💼 Experiência com projetos pessoais e aplicações reais em Python, Flask e banco de dados
 
-🧠 Estudando para dominar Arquitetura de APIs, SQL avançado, versionamento e boas práticas de back-end
+🔭 Atualmente desenvolvendo APIs, integrações e automações para portfólio
 
-📚 Praticando diariamente para alcançar vaga de Dev Python Junior até julho de 2025
+🧠 Buscando dominar: Flask, APIs REST, SQL avançado, Selenium e Pandas
 
-💬 Melhorando comunicação técnica e inglês
+💡 Interesse em back-end, automação e soluções escaláveis
 
-🏆 Sonho em alcançar liberdade financeira e ajudar minha família
+🛠 Tecnologias que utilizo
+Linguagens
 
-🛠 Conjunto de tecnologias
+Python (intermediário)
 
-Linguagens:
-Python, JavaScript, HTML, CSS.
+Back-end
 
-Back-end:
-Flask, Django, APIs REST, PostgreSQL, MySQL, MongoDB, Redis.
+Flask
 
-Automação & Dados:
-Selenium, Pandas.
+Django (básico)
 
-Front-end:
-React (intermediário), HTML/CSS, consumo de APIs.
+APIs REST
 
-Outros:
-Git, Docker, GitHub Flow, Deploys, Requests, JSON, boas práticas.
+PostgreSQL
+
+MySQL
+
+Front-end
+
+HTML
+
+CSS
+
+Automação
+
+Selenium
+
+Requests
+
+BeautifulSoup
+
+Manipulação de Dados
+
+Pandas
+
+Ferramentas e Conceitos
+
+Git & GitHub
+
+Docker (iniciante)
+
+JSON
+
+Postman
+
+Versionamento
+
+Modelagem de dados
+
+Boas práticas para APIs
 
 📚 Atualmente aprendendo
 
-SQL avançado (PostgreSQL e MySQL)
+Flask avançado + arquitetura de APIs
 
-Padrões de API e boas práticas de back-end
+Integrações com serviços externos
 
-Automação com Selenium + Pandas
+SQL aprofundado (JOINs, índices, performance)
 
-Versionamento e branches (Git)
+Clean Code e boas práticas de back-end
 
-Arquitetura de sistemas e Clean Code
+Selenium para automações robustas
+
+Pandas para limpeza e análise de dados
 
 🌐 Vamos nos conectar
 
-LinkedIn: (adicione seu link aqui)
-GitHub: (seu perfil atual)
+LinkedIn: (https://www.linkedin.com/in/yago-felix-737011279/)
+GitHub: (https://github.com/yagofelix00)
 
 🤝 Aberto a colaborações
 
-Estou aberto(a) a colaborar em:
+Tenho interesse em colaborar com:
 
-APIs back-end em Python
+APIs para sistemas reais
 
-Projetos com Flask ou Django
+Projetos Python com foco em back-end
 
 Automação com Selenium
 
-Integrações com banco de dados
+Aplicações que envolvam manipulação de dados
 
-Aplicações full stack simples (React + Flask)
+Projetos educacionais onde eu possa contribuir e aprender
 
-Vamos construir algo incrível juntos 🚀
+✨ Vamos construir algo incrível juntos! 🚀
