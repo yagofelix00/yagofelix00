@@ -37,7 +37,7 @@ Atualmente estou evoluindo em **Flask**, **SQL**, **Selenium**, **Pandas** e fun
 - Pandas  
 - NumPy  
 - SQL (consultas, joins, índices, performance)  
-- Visualização de Dados (Matplotlib / Seaborn — opcional)  
+- Visualização de Dados (Matplotlib)  
 - Limpeza, tratamento e análise de dados  
 - Coleta de dados (APIs, scraping)
 
